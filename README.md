@@ -8,4 +8,4 @@ The bot does not crash but will end once the user exits the browser.
 
 In order to run the bot, execute the following in Shell:
 
-'python3 tinder_bot.py'
+`python3 tinder_bot.py`
