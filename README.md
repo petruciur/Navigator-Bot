@@ -9,3 +9,5 @@ The bot does not crash but will end once the user exits the browser.
 In order to run the bot, execute the following in Shell:
 
 `python3 tinder_bot.py`
+
+(The program is going through some modifications at the moment due to current misalignment with `Selenium webdriver`)
